@@ -104,10 +104,6 @@ Chaque article est stocké avec la structure suivante:
 }
 ```
 
-## 📊 Captures d'écran
-
-*Ajoutez ici des captures d'écran de l'interface Streamlit*
-
 ## ⚠️ Note légale
 
 Ce projet est créé à des fins éducatives et de recherche. Veuillez respecter les conditions d'utilisation du Blog du Modérateur et limiter les requêtes pour ne pas surcharger leur serveur. Les données extraites ne doivent pas être utilisées à des fins commerciales sans l'autorisation explicite des propriétaires du site.
@@ -123,4 +119,4 @@ Ce projet est distribué sous licence MIT. Voir le fichier `LICENSE` pour plus d
 
 ---
 
-📌 **Créé avec ❤️ pour le cours de Scraping** 
+📌 **Créé avec ❤️ par Jyriu** 
